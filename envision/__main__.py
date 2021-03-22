@@ -11,7 +11,7 @@ set_option("display.width", 0)
 output = {
     "lighting": lighting,
     "update": update,
-    "occupancy": occupancy(datetime.datetime.now(), datetime.datetime.now() - datetime.timedelta(hours = 1)),
+    "occupancy": occupancy(datetime.datetime.now() - datetime.timedelta(hours = 1),datetime.datetime.now()),
 }[argv[1]]()
 
 if hasattr(output, "fillna"):
