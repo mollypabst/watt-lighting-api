@@ -101,6 +101,6 @@ async def web_interface(
                     }
                 )
                 for _, area in load(file).drop_duplicates(
-                    keys="Room Name"
+                    #keys="Room Name"
                 ).dropna(subset=["Web ID"]).iterrows()
             ]))
