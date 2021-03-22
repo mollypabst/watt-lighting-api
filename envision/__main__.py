@@ -1,7 +1,7 @@
 from sys import argv
 from warnings import filterwarnings
 from pandas import set_option
-from datetime import datetime
+import datetime
 from envision import update, lighting, occupancy
 
 filterwarnings("ignore")
