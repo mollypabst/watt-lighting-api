@@ -1,0 +1,782 @@
+[
+    {
+        "Room Name":"112 - Workshop \/ Rapid Prototyping",
+        "Access":true,
+        "REST ID":1004,
+        "Web ID":"00000000-0000-0001-0000-0000000003EC"
+    },
+    {
+        "Room Name":"112 - Workshop \/ Rapid Prototyping",
+        "Access":true,
+        "REST ID":1004,
+        "Web ID":"00000000-0000-0001-0000-000000000407"
+    },
+    {
+        "Room Name":"110 - 3D Project Demo Lab",
+        "Access":true,
+        "REST ID":1005,
+        "Web ID":"00000000-0000-0001-0000-0000000003ED"
+    },
+    {
+        "Room Name":"100S2 - Stair",
+        "Access":true,
+        "REST ID":1007,
+        "Web ID":"00000000-0000-0001-0000-0000000003EF"
+    },
+    {
+        "Room Name":"113 - Comand Control Room",
+        "Access":true,
+        "REST ID":1009,
+        "Web ID":"00000000-0000-0001-0000-0000000003F1"
+    },
+    {
+        "Room Name":"108 - 200 Seat Auditorium",
+        "Access":true,
+        "REST ID":1010,
+        "Web ID":"00000000-0000-0001-0000-0000000003F2"
+    },
+    {
+        "Room Name":"106 - Collaborative Learning Room # 1",
+        "Access":true,
+        "REST ID":1011,
+        "Web ID":"00000000-0000-0001-0000-0000000003F3"
+    },
+    {
+        "Room Name":"106A - Storage",
+        "Access":true,
+        "REST ID":1012,
+        "Web ID":"00000000-0000-0001-0000-0000000003F4"
+    },
+    {
+        "Room Name":"100S1 - Stair",
+        "Access":true,
+        "REST ID":1013,
+        "Web ID":"00000000-0000-0001-0000-0000000003F5"
+    },
+    {
+        "Room Name":"104W1 - Womans Rest Room",
+        "Access":true,
+        "REST ID":1014,
+        "Web ID":"00000000-0000-0001-0000-0000000003F6"
+    },
+    {
+        "Room Name":"104M1 - Mens Rest Room",
+        "Access":true,
+        "REST ID":1015,
+        "Web ID":"00000000-0000-0001-0000-0000000003F7"
+    },
+    {
+        "Room Name":"105 - Janitor",
+        "Access":true,
+        "REST ID":1016,
+        "Web ID":"00000000-0000-0001-0000-0000000003F8"
+    },
+    {
+        "Room Name":"100V1 - Vestibule",
+        "Access":true,
+        "REST ID":1017,
+        "Web ID":"00000000-0000-0001-0000-0000000003F9"
+    },
+    {
+        "Room Name":"103 - Warming Kitchen",
+        "Access":true,
+        "REST ID":1018,
+        "Web ID":"00000000-0000-0001-0000-0000000003FA"
+    },
+    {
+        "Room Name":"102 - Consulation",
+        "Access":true,
+        "REST ID":1019,
+        "Web ID":"00000000-0000-0001-0000-0000000003FB"
+    },
+    {
+        "Room Name":"100 D\/C\/B\/A - Media Lounge\/Brand Center",
+        "Access":true,
+        "REST ID":1020,
+        "Web ID":"00000000-0000-0001-0000-0000000003FC"
+    },
+    {
+        "Room Name":"100V2 - Vestibule",
+        "Access":true,
+        "REST ID":1021,
+        "Web ID":"00000000-0000-0001-0000-0000000003FD"
+    },
+    {
+        "Room Name":"100L - Lobby",
+        "Access":true,
+        "REST ID":1023,
+        "Web ID":"00000000-0000-0001-0000-0000000003FF"
+    },
+    {
+        "Room Name":"100D - Media Lounge",
+        "Access":true,
+        "REST ID":1025,
+        "Web ID":"00000000-0000-0001-0000-000000000401"
+    },
+    {
+        "Room Name":"100C - Media Lounge",
+        "Access":true,
+        "REST ID":1026,
+        "Web ID":"00000000-0000-0001-0000-000000000402"
+    },
+    {
+        "Room Name":"113B - Data Center",
+        "Access":true,
+        "REST ID":1029,
+        "Web ID":"00000000-0000-0001-0000-000000000405"
+    },
+    {
+        "Room Name":"101 - Cafe and Bathroom Hall",
+        "Access":true,
+        "REST ID":1030,
+        "Web ID":"00000000-0000-0001-0000-000000000406"
+    },
+    {
+        "Room Name":"112 - Workshop \/ Rapid Prototyping",
+        "Access":true,
+        "REST ID":1031,
+        "Web ID":"00000000-0000-0001-0000-0000000003EC"
+    },
+    {
+        "Room Name":"112 - Workshop \/ Rapid Prototyping",
+        "Access":true,
+        "REST ID":1031,
+        "Web ID":"00000000-0000-0001-0000-000000000407"
+    },
+    {
+        "Room Name":"108A - Storage",
+        "Access":true,
+        "REST ID":1032,
+        "Web ID":"00000000-0000-0001-0000-000000000408"
+    },
+    {
+        "Room Name":"100V3 - Vestibule",
+        "Access":true,
+        "REST ID":1033,
+        "Web ID":"00000000-0000-0001-0000-000000000409"
+    },
+    {
+        "Room Name":"Hallway",
+        "Access":true,
+        "REST ID":1034,
+        "Web ID":"00000000-0000-0001-0000-00000000040A"
+    },
+    {
+        "Room Name":"100E Tech Concierge",
+        "Access":true,
+        "REST ID":1035,
+        "Web ID":"00000000-0000-0001-0000-00000000040B"
+    },
+    {
+        "Room Name":"LobbyKeypad",
+        "Access":false,
+        "REST ID":1701,
+        "Web ID":null
+    },
+    {
+        "Room Name":"218 - Academic Resource Center",
+        "Access":true,
+        "REST ID":2002,
+        "Web ID":"00000000-0000-0001-0000-0000000007D2"
+    },
+    {
+        "Room Name":"216 - Project Work Room",
+        "Access":true,
+        "REST ID":2003,
+        "Web ID":"00000000-0000-0001-0000-0000000007D3"
+    },
+    {
+        "Room Name":"216A - Project Storage",
+        "Access":true,
+        "REST ID":2004,
+        "Web ID":"00000000-0000-0001-0000-0000000007D4"
+    },
+    {
+        "Room Name":"216B - Communications Development Studio B",
+        "Access":true,
+        "REST ID":2005,
+        "Web ID":"00000000-0000-0001-0000-0000000007D5"
+    },
+    {
+        "Room Name":"212 - Communications Development Studio A",
+        "Access":true,
+        "REST ID":2006,
+        "Web ID":"00000000-0000-0001-0000-0000000007D6"
+    },
+    {
+        "Room Name":"208 - Collaborative Learning Room #1",
+        "Access":true,
+        "REST ID":2007,
+        "Web ID":"00000000-0000-0001-0000-0000000007D7"
+    },
+    {
+        "Room Name":"206JA - Janitor",
+        "Access":true,
+        "REST ID":2008,
+        "Web ID":"00000000-0000-0001-0000-0000000007D8"
+    },
+    {
+        "Room Name":"206J - Service Corr",
+        "Access":true,
+        "REST ID":2009,
+        "Web ID":"00000000-0000-0001-0000-0000000007D9"
+    },
+    {
+        "Room Name":"203 - Special Projects",
+        "Access":true,
+        "REST ID":2010,
+        "Web ID":"00000000-0000-0001-0000-0000000007DA"
+    },
+    {
+        "Room Name":"204W1 - Women's Restroom",
+        "Access":true,
+        "REST ID":2011,
+        "Web ID":"00000000-0000-0001-0000-0000000007DB"
+    },
+    {
+        "Room Name":"204M1 - Men's Restroom",
+        "Access":true,
+        "REST ID":2012,
+        "Web ID":"00000000-0000-0001-0000-0000000007DC"
+    },
+    {
+        "Room Name":"201 - Meeting Room Medium",
+        "Access":true,
+        "REST ID":2013,
+        "Web ID":"00000000-0000-0001-0000-0000000007DD"
+    },
+    {
+        "Room Name":"200D - Individual Teaming Area",
+        "Access":true,
+        "REST ID":2014,
+        "Web ID":"00000000-0000-0001-0000-0000000007DE"
+    },
+    {
+        "Room Name":"211 - Project Room",
+        "Access":true,
+        "REST ID":2015,
+        "Web ID":"00000000-0000-0001-0000-0000000007DF"
+    },
+    {
+        "Room Name":"209 - Project Room",
+        "Access":true,
+        "REST ID":2016,
+        "Web ID":"00000000-0000-0001-0000-0000000007E0"
+    },
+    {
+        "Room Name":"207 - Project Room",
+        "Access":true,
+        "REST ID":2017,
+        "Web ID":"00000000-0000-0001-0000-0000000007E1"
+    },
+    {
+        "Room Name":"205 - Project Room",
+        "Access":true,
+        "REST ID":2018,
+        "Web ID":"00000000-0000-0001-0000-0000000007E2"
+    },
+    {
+        "Room Name":"200C - Teaming Area",
+        "Access":true,
+        "REST ID":2019,
+        "Web ID":"00000000-0000-0001-0000-0000000007E3"
+    },
+    {
+        "Room Name":"200B - Teaming Area",
+        "Access":true,
+        "REST ID":2020,
+        "Web ID":"00000000-0000-0001-0000-0000000007E4"
+    },
+    {
+        "Room Name":"200H - Corridor",
+        "Access":true,
+        "REST ID":2021,
+        "Web ID":"00000000-0000-0001-0000-0000000007E5"
+    },
+    {
+        "Room Name":"First Floor Ceiling",
+        "Access":true,
+        "REST ID":2022,
+        "Web ID":"00000000-0000-0001-0000-0000000007E6"
+    },
+    {
+        "Room Name":"200J - North Main Corridor",
+        "Access":true,
+        "REST ID":2023,
+        "Web ID":"00000000-0000-0001-0000-0000000007E7"
+    },
+    {
+        "Room Name":"316 - Seminar Room",
+        "Access":true,
+        "REST ID":3002,
+        "Web ID":"00000000-0000-0001-0000-000000000BBA"
+    },
+    {
+        "Room Name":"310 - Cyber Fusion",
+        "Access":true,
+        "REST ID":3003,
+        "Web ID":"00000000-0000-0001-0000-000000000BBB"
+    },
+    {
+        "Room Name":"308- Immersive Visualization Theatre",
+        "Access":true,
+        "REST ID":3004,
+        "Web ID":"00000000-0000-0001-0000-000000000BBC"
+    },
+    {
+        "Room Name":"339E - Directors Office",
+        "Access":true,
+        "REST ID":3005,
+        "Web ID":"00000000-0000-0001-0000-000000000BBD"
+    },
+    {
+        "Room Name":"339F - Partners Office",
+        "Access":true,
+        "REST ID":3006,
+        "Web ID":"00000000-0000-0001-0000-000000000BBE"
+    },
+    {
+        "Room Name":"339G - Partners Office",
+        "Access":true,
+        "REST ID":3007,
+        "Web ID":"00000000-0000-0001-0000-000000000BBF"
+    },
+    {
+        "Room Name":"333 - Multipurpose Learning",
+        "Access":true,
+        "REST ID":3008,
+        "Web ID":"00000000-0000-0001-0000-000000000BC0"
+    },
+    {
+        "Room Name":"323 - Multipurpose Learning",
+        "Access":true,
+        "REST ID":3009,
+        "Web ID":"00000000-0000-0001-0000-000000000BC1"
+    },
+    {
+        "Room Name":"313 - Multipurpose Learning",
+        "Access":true,
+        "REST ID":3010,
+        "Web ID":"00000000-0000-0001-0000-000000000BC2"
+    },
+    {
+        "Room Name":"307 - S&T Analytical Space",
+        "Access":true,
+        "REST ID":3011,
+        "Web ID":"00000000-0000-0001-0000-000000000BC3"
+    },
+    {
+        "Room Name":"303 - S&T Analytical Space",
+        "Access":true,
+        "REST ID":3012,
+        "Web ID":"00000000-0000-0001-0000-000000000BC4"
+    },
+    {
+        "Room Name":"344B - Breakroom",
+        "Access":true,
+        "REST ID":3013,
+        "Web ID":"00000000-0000-0001-0000-000000000BC5"
+    },
+    {
+        "Room Name":"344J - Office",
+        "Access":true,
+        "REST ID":3014,
+        "Web ID":"00000000-0000-0001-0000-000000000BC6"
+    },
+    {
+        "Room Name":"344H - Assistant & Workroom",
+        "Access":true,
+        "REST ID":3015,
+        "Web ID":"00000000-0000-0001-0000-000000000BC7"
+    },
+    {
+        "Room Name":"331 - Project Lab",
+        "Access":true,
+        "REST ID":3016,
+        "Web ID":"00000000-0000-0001-0000-000000000BC8"
+    },
+    {
+        "Room Name":"327 - Project Lab",
+        "Access":true,
+        "REST ID":3017,
+        "Web ID":"00000000-0000-0001-0000-000000000BC9"
+    },
+    {
+        "Room Name":"321 - Project Lab",
+        "Access":true,
+        "REST ID":3018,
+        "Web ID":"00000000-0000-0001-0000-000000000BCA"
+    },
+    {
+        "Room Name":"339B - CI Office",
+        "Access":true,
+        "REST ID":3019,
+        "Web ID":"00000000-0000-0001-0000-000000000BCB"
+    },
+    {
+        "Room Name":"339A - CI Office",
+        "Access":true,
+        "REST ID":3020,
+        "Web ID":"00000000-0000-0001-0000-000000000BCC"
+    },
+    {
+        "Room Name":"339C - Tech Work",
+        "Access":true,
+        "REST ID":3021,
+        "Web ID":"00000000-0000-0001-0000-000000000BCD"
+    },
+    {
+        "Room Name":"336 - Project Lab",
+        "Access":true,
+        "REST ID":3022,
+        "Web ID":"00000000-0000-0001-0000-000000000BCE"
+    },
+    {
+        "Room Name":"329 - Project Lab",
+        "Access":true,
+        "REST ID":3023,
+        "Web ID":"00000000-0000-0001-0000-000000000BCF"
+    },
+    {
+        "Room Name":"325 - Project Lab",
+        "Access":true,
+        "REST ID":3024,
+        "Web ID":"00000000-0000-0001-0000-000000000BD0"
+    },
+    {
+        "Room Name":"319 - Project Lab",
+        "Access":true,
+        "REST ID":3025,
+        "Web ID":"00000000-0000-0001-0000-000000000BD1"
+    },
+    {
+        "Room Name":"315 - Project Lab",
+        "Access":true,
+        "REST ID":3026,
+        "Web ID":"00000000-0000-0001-0000-000000000BD2"
+    },
+    {
+        "Room Name":"309 - Project Lab",
+        "Access":true,
+        "REST ID":3027,
+        "Web ID":"00000000-0000-0001-0000-000000000BD3"
+    },
+    {
+        "Room Name":"344G - Office",
+        "Access":true,
+        "REST ID":3028,
+        "Web ID":"00000000-0000-0001-0000-000000000BD4"
+    },
+    {
+        "Room Name":"344F - Assosicate Directors Office",
+        "Access":true,
+        "REST ID":3029,
+        "Web ID":"00000000-0000-0001-0000-000000000BD5"
+    },
+    {
+        "Room Name":"344E - Associte Directors Office ",
+        "Access":true,
+        "REST ID":3030,
+        "Web ID":"00000000-0000-0001-0000-000000000BD6"
+    },
+    {
+        "Room Name":"316A - Storage",
+        "Access":true,
+        "REST ID":3031,
+        "Web ID":"00000000-0000-0001-0000-000000000BD7"
+    },
+    {
+        "Room Name":"344C - Board Room",
+        "Access":true,
+        "REST ID":3032,
+        "Web ID":"00000000-0000-0001-0000-000000000BD8"
+    },
+    {
+        "Room Name":"304W - Womens Restroom",
+        "Access":true,
+        "REST ID":3033,
+        "Web ID":"00000000-0000-0001-0000-000000000BD9"
+    },
+    {
+        "Room Name":"304M - Mens Restroom",
+        "Access":true,
+        "REST ID":3034,
+        "Web ID":"00000000-0000-0001-0000-000000000BDA"
+    },
+    {
+        "Room Name":"306J - Printing Alcove",
+        "Access":true,
+        "REST ID":3035,
+        "Web ID":"00000000-0000-0001-0000-000000000BDB"
+    },
+    {
+        "Room Name":"306K - Janitor",
+        "Access":true,
+        "REST ID":3036,
+        "Web ID":"00000000-0000-0001-0000-000000000BDC"
+    },
+    {
+        "Room Name":"344A - Admin\/Reception",
+        "Access":true,
+        "REST ID":3037,
+        "Web ID":"00000000-0000-0001-0000-000000000BDD"
+    },
+    {
+        "Room Name":"C344 - Office Area Corridor ",
+        "Access":true,
+        "REST ID":3038,
+        "Web ID":"00000000-0000-0001-0000-000000000BDE"
+    },
+    {
+        "Room Name":"300D - Teaming Area ",
+        "Access":true,
+        "REST ID":3039,
+        "Web ID":"00000000-0000-0001-0000-000000000BDF"
+    },
+    {
+        "Room Name":"300C - Teaming Area",
+        "Access":true,
+        "REST ID":3040,
+        "Web ID":"00000000-0000-0001-0000-000000000BE0"
+    },
+    {
+        "Room Name":"300B - Teaming Area",
+        "Access":true,
+        "REST ID":3041,
+        "Web ID":"00000000-0000-0001-0000-000000000BE1"
+    },
+    {
+        "Room Name":"300A - Teaming Area",
+        "Access":true,
+        "REST ID":3042,
+        "Web ID":"00000000-0000-0001-0000-000000000BE2"
+    },
+    {
+        "Room Name":"C300 - Main North Corridor ",
+        "Access":true,
+        "REST ID":3043,
+        "Web ID":"00000000-0000-0001-0000-000000000BE3"
+    },
+    {
+        "Room Name":"C300H - Main Corridor South",
+        "Access":true,
+        "REST ID":3044,
+        "Web ID":"00000000-0000-0001-0000-000000000BE4"
+    },
+    {
+        "Room Name":"301 - Small Confrence Room",
+        "Access":true,
+        "REST ID":3045,
+        "Web ID":"00000000-0000-0001-0000-000000000BE5"
+    },
+    {
+        "Room Name":"5000 - South High Ceiling ",
+        "Access":true,
+        "REST ID":3100,
+        "Web ID":"00000000-0000-0001-0000-000000000C1C"
+    },
+    {
+        "Room Name":"400 - Corridor",
+        "Access":true,
+        "REST ID":4002,
+        "Web ID":"00000000-0000-0001-0000-000000000FA2"
+    },
+    {
+        "Room Name":"4th Floor Outside",
+        "Access":true,
+        "REST ID":4003,
+        "Web ID":"00000000-0000-0001-0000-000000000FA3"
+    },
+    {
+        "Room Name":"408 - Connected Systems",
+        "Access":false,
+        "REST ID":4005,
+        "Web ID":null
+    },
+    {
+        "Room Name":"410 - Connected Lighting",
+        "Access":false,
+        "REST ID":4006,
+        "Web ID":null
+    },
+    {
+        "Room Name":"413 - Working Lounge",
+        "Access":false,
+        "REST ID":4007,
+        "Web ID":null
+    },
+    {
+        "Room Name":"416 - Smart Systems",
+        "Access":false,
+        "REST ID":4008,
+        "Web ID":null
+    },
+    {
+        "Room Name":"418 - Operational Support",
+        "Access":false,
+        "REST ID":4009,
+        "Web ID":null
+    },
+    {
+        "Room Name":"423 - RESA",
+        "Access":false,
+        "REST ID":4010,
+        "Web ID":null
+    },
+    {
+        "Room Name":"433 - Partner Confrence Room",
+        "Access":false,
+        "REST ID":4011,
+        "Web ID":null
+    },
+    {
+        "Room Name":"439A - Office",
+        "Access":false,
+        "REST ID":4012,
+        "Web ID":null
+    },
+    {
+        "Room Name":"439B - Office ",
+        "Access":false,
+        "REST ID":4013,
+        "Web ID":null
+    },
+    {
+        "Room Name":"439C - Office",
+        "Access":false,
+        "REST ID":4014,
+        "Web ID":null
+    },
+    {
+        "Room Name":"444 - Breakroom",
+        "Access":false,
+        "REST ID":4015,
+        "Web ID":null
+    },
+    {
+        "Room Name":"Womens Restroom",
+        "Access":false,
+        "REST ID":4016,
+        "Web ID":null
+    },
+    {
+        "Room Name":"Mens Restroom",
+        "Access":false,
+        "REST ID":4017,
+        "Web ID":null
+    },
+    {
+        "Room Name":"Service Area",
+        "Access":false,
+        "REST ID":4018,
+        "Web ID":null
+    },
+    {
+        "Room Name":"Service Area Entrance Room",
+        "Access":false,
+        "REST ID":4019,
+        "Web ID":null
+    },
+    {
+        "Room Name":"L106 - Receiving",
+        "Access":true,
+        "REST ID":5002,
+        "Web ID":"00000000-0000-0001-0000-00000000138A"
+    },
+    {
+        "Room Name":"Exterior - Generator Wall Packs",
+        "Access":true,
+        "REST ID":5003,
+        "Web ID":"00000000-0000-0001-0000-00000000138B"
+    },
+    {
+        "Room Name":"L102-Central Recycling\/Waste Handling",
+        "Access":true,
+        "REST ID":5004,
+        "Web ID":"00000000-0000-0001-0000-00000000138C"
+    },
+    {
+        "Room Name":"L105J-Custodial Closet",
+        "Access":true,
+        "REST ID":5005,
+        "Web ID":"00000000-0000-0001-0000-00000000138D"
+    },
+    {
+        "Room Name":"L101T2 - Restroom\/Shower",
+        "Access":true,
+        "REST ID":5006,
+        "Web ID":"00000000-0000-0001-0000-00000000138E"
+    },
+    {
+        "Room Name":"L100H-Corridor",
+        "Access":true,
+        "REST ID":5007,
+        "Web ID":"00000000-0000-0001-0000-00000000138F"
+    },
+    {
+        "Room Name":"L101L - Mechincial",
+        "Access":true,
+        "REST ID":5008,
+        "Web ID":"00000000-0000-0001-0000-000000001390"
+    },
+    {
+        "Room Name":"L110 - Storage",
+        "Access":true,
+        "REST ID":5009,
+        "Web ID":"00000000-0000-0001-0000-000000001391"
+    },
+    {
+        "Room Name":"L101T1 - Restroom\/Shower",
+        "Access":true,
+        "REST ID":5010,
+        "Web ID":"00000000-0000-0001-0000-000000001392"
+    },
+    {
+        "Room Name":"Main Lobby",
+        "Access":true,
+        "REST ID":7701,
+        "Web ID":"00000000-0000-0001-0000-000000001E15"
+    },
+    {
+        "Room Name":"Exterior Lights",
+        "Access":true,
+        "REST ID":7705,
+        "Web ID":"00000000-0000-0001-0000-000000001E19"
+    },
+    {
+        "Room Name":"Clemson Watt Innovation Center",
+        "Access":null,
+        "REST ID":null,
+        "Web ID":"00000000-0000-0002-0000-000000000000"
+    },
+    {
+        "Room Name":"2nd Floor",
+        "Access":null,
+        "REST ID":null,
+        "Web ID":"72BBF590-4E86-47FB-81CC-1D38CA9B7602"
+    },
+    {
+        "Room Name":"3rd Floor",
+        "Access":null,
+        "REST ID":null,
+        "Web ID":"77133EC9-0C3D-4520-B9DD-464658C902A1"
+    },
+    {
+        "Room Name":"Basement",
+        "Access":null,
+        "REST ID":null,
+        "Web ID":"8F7F9E23-7BF7-4A94-B1A9-24CE81962673"
+    },
+    {
+        "Room Name":"4th Floor",
+        "Access":null,
+        "REST ID":null,
+        "Web ID":"9060FB6C-74FD-4C07-8EA9-B0DF20E76B95"
+    },
+    {
+        "Room Name":"1st Floor",
+        "Access":null,
+        "REST ID":null,
+        "Web ID":"E55DC44A-790D-471E-821D-05A172C33F0B"
+    }
+]
