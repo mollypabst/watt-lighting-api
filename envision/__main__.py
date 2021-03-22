@@ -8,10 +8,12 @@ filterwarnings("ignore")
 set_option("display.max_rows", None)
 set_option("display.width", 0)
 
+occupancy = occupancy(datetime.datetime.now() - datetime.timedelta(hours = 1),datetime.datetime.now())
+
 output = {
     "lighting": lighting,
     "update": update,
-    #"occupancy": occupancy(datetime.datetime.now() - datetime.timedelta(hours = 1),datetime.datetime.now()),
+    "occupancy": occupancy,
 }[argv[1]]()
 
 if hasattr(output, "fillna"):
