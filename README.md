@@ -2,10 +2,10 @@
 An efficient package for retrieving lighting, power, and occupancy data from
 the Watt center. Originally only capable of lighting data, this project was
 only named for that functionality.  
-Developed by [Cooper Sanders](mailto:cssande@clemson.edu)
+Developed by [Molly Pabst](mailto:mepabst@clemson.edu)
 
 ## Installation
-`$ pip install git+https://gitlab.clemson.edu/watt/watt-lighting-api@v2.0.0`  
+`$ pip install git+https://github.com/mollypabst/watt-lighting-api`  
 This package requires Python 3.7+ (only tested on 3.8).
 
 ## Usage
