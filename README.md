@@ -97,4 +97,4 @@ insignificant. Ignore them or filter them.
 The Web API provides more data than you have access to in this package. In
 particular, certain occupancy levels can be unknown, skewing the data. In the
 future, this package may be updated to access that information, or you can just
-make the SOAP requests yourself if you need more control.
+make the SOAP requests yourself if you need more control. 
